@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+__pycache__/
+
+#Virtual Environment Files and Installed Python Packages
+.venv/
+
+# Data Files
+*.mdf
