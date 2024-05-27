@@ -28,6 +28,3 @@ execute.py
 
 7) after you are done with analysis, deactivate the virtual environment by typing "deactivate" into the terminal
 deactivate
-
-
-Problems?!  Contact Aaron Burns or the google machine
