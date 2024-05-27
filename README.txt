@@ -1,8 +1,5 @@
 README
 
-Thank you for your interest in developing and using our scripts for quick-turn vehicle analysis!  Please follow the below instructions to download python, setup a virtual environment, install the necessary packages and the execute the analysis files.
-
-
 Instructions for first time setup
 1) Make sure python is downloaded on you computer: https://www.python.org/downloads/
 
